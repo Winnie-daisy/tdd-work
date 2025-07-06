@@ -1,4 +1,5 @@
 function multiply(a, b) {
-    return 1
+    // 
+    return 1;
 }
-module.exports = { multiply };
+export default multiply;
