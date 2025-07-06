@@ -19,19 +19,19 @@ describe('multiply', () => {
      expect(multiply(4, 4)).to.equal(16);
    });
 
-//   it('should multiply 23 by 45 and return their product', () => {
-//     expect(multiply(23, 45)).to.equal(23 * 45);
-//   });
+   it('should multiply 23 by 45 and return their product', () => {
+     expect(multiply(23, 45)).to.equal(23 * 45);
+   });
 
-//   it('should multiply by zero and return zero', () => {
-//     expect(multiply(5, 0)).to.equal(0);
-//   });
+   it('should multiply by zero and return zero', () => {
+     expect(multiply(5, 0)).to.equal(0);
+   });
 
-//   it('should multiply by a negative number', () => {
-//     expect(multiply(5, -3)).to.equal(-15);
-//   });
+   it('should multiply by a negative number', () => {
+     expect(multiply(5, -3)).to.equal(-15);
+   });
 
-//   it('should multiply two negative numbers', () => {
-//     expect(multiply(-5, -3)).to.equal(15);
-//   });
+   it('should multiply two negative numbers', () => {
+     expect(multiply(-5, -3)).to.equal(15);
+   });
  });
