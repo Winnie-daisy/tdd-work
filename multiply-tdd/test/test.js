@@ -11,13 +11,13 @@ describe('multiply', () => {
      expect(multiply(2, 2)).to.equal(4);
    });
 
-//   it('should multiply 3 by 3 and return 9', () => {
-//     expect(multiply(3, 3)).to.equal(9);
-//   });
+   it('should multiply 3 by 3 and return 9', () => {
+    expect(multiply(3, 3)).to.equal(9);
+   });
 
-//   it('should multiply 4 by 4 and return 16', () => {
-//     expect(multiply(4, 4)).to.equal(16);
-//   });
+  it('should multiply 4 by 4 and return 16', () => {
+     expect(multiply(4, 4)).to.equal(16);
+   });
 
 //   it('should multiply 23 by 45 and return their product', () => {
 //     expect(multiply(23, 45)).to.equal(23 * 45);
