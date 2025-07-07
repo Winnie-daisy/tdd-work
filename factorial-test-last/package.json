@@ -1,0 +1,17 @@
+{
+  "name": "factorial-test-last",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "mocha test/**/*.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.2.0",
+    "mocha": "^11.7.1"
+  }
+}
