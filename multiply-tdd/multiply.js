@@ -1,4 +1,5 @@
 /**
+ * by Aber Winnie Daisy and Namusobya Edna
  * Multiply two numbers.
  * @param {number} a - The first number.
  * @param {number} b - The second number.

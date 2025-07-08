@@ -1,4 +1,4 @@
-// test/factorial.test.js
+// test/factorial.test.js by Aber Winnie Daisy and Namusobya Edna
 
 import { expect } from 'chai';
 import factorial from '../factorial.js'; // Note the .js extension and ES import
