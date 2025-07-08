@@ -1,12 +1,8 @@
 // factorial.js
 
 /**
- * factorial.js
- *
- * This file contains the implementation of the factorial function.
- *
- * Pair/Triplet: [Your Name Here] (e.g., John Doe)
- * You would list the names of your pair/triplet if you were working in a group.
+ * Pair/Triplet: [Aber Winnie Daisy] and [Namusobya Edna])
+
  */
 
 /**
