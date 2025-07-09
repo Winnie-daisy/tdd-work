@@ -11,8 +11,13 @@
 
 // Initial minimal function to pass the first test
 function fibonacci(n) {
-  // Placeholder, will be updated as tests evolve
-  return 0; // Or whatever makes the first test pass
+  if (n===0) {
+     return 0; 
+  }
+ if (n===1){
+    return 1;
+ }
+ return 0;
 }
 
 export default fibonacci;
